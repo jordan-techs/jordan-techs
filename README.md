@@ -1,16 +1,27 @@
-## Hi there 👋
+Salut ! 👋
 
-<!--
-**jordan-techs/jordan-techs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Je m'appelle Jordan et je suis un étudiant en ingénierie passionné par l’électronique embarquée, les systèmes de contrôle et la robotique.  
+Actuellement en dernière année de cycle ingénieur, je développe des projets techniques mêlant hardware et software.
 
-Here are some ideas to get you started:
+## 🔧 Compétences
+- 🔌 Systèmes embarqués (STM32, Arduino, raspberry)
+- ⚙️ Commande moteur, Convertisseurs 
+- 🖥️ C / C++, Python
+- 🧠 Modèles de diffusion, IA (débutant)
+- 📟 MATLAB, LTSPICE, ALTIUM,    
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💡 Domaines étudiés
+- Electronique de puissance
+- systèmes embarqués
+- conception électronique
+- Energie
+- véhicules électriques
+## 📁 Projets récents
+- [Commande du bras robotisé (MCC)](https://github.com/jordan-techs/bras-robotise-stm32)
+- [Positionnement d’un objet à l’aide de sources lumineuses](https://github.com/jordan-techs/ton-repo)
+- [Etude et réalisation d’un suiveur solaire commandé à distance](https://github.com/jordan-techs/ton-repo)
+
+## 📫 Me contacter
+- Email : jordankoyou@gmail.com
+- LinkedIn : https://www.linkedin.com/in/jordan-koyou-a6b7681a2
+
