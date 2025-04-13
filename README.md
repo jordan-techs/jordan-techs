@@ -8,7 +8,7 @@ Actuellement en dernière année de cycle ingénieur, je développe des projets 
 - ⚙️ Commande moteur, Convertisseurs 
 - 🖥️ C / C++, Python
 - 🧠 Modèles de diffusion, IA (débutant)
-- 📟 MATLAB, LTSPICE, ALTIUM,    
+- 📟 MATLAB, LTSPICE, KICAD,    
 
 ## 💡 Domaines étudiés
 - Electronique de puissance
